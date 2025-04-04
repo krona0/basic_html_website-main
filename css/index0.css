@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color: #EAEFF5;
+
+    margin: 0px;
+    margin-bottom: 1000px;
+}
+
+.from-feedback{
+    background-color: white;
+
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+
+    padding: 10px 10px;
+    margin: 0px 10px;
+}
+
+.feedback-id,
+.feedback-contant{
+    margin: 0px;
+}
+
+.feedback-id{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.feedback-contant{
+    margin: 5px 20px;
+}
